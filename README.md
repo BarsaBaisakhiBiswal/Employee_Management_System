@@ -1,6 +1,6 @@
 # Employee_Management_System
-This is a SpringBoot WebApplication project to manage employee and departments
-Server port of tomcat is assigned to 9090
+This is a SpringBoot WebApplication project to manage employee and departments <br />
+Server port of tomcat is assigned to 9090 
 
 In this project we would be able to do following things:
 1) Create new employees and departments
@@ -13,7 +13,7 @@ In this project we would be able to do following things:
 8) Create API documentation using swagger 
 
 #Link for swagger-UI --> http://localhost:9090/swagger-ui.html
-#HomePageLink        --> http://localhost:9090
+<br/>#HomePageLink        --> http://localhost:9090
 
 
 **IMPORTANT TO NOTE:
