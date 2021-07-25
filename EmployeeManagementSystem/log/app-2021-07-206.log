@@ -1,0 +1,23 @@
+2021-07-25 04:23:56,596 INFO c.E.E.EmployeeManagementSystemApplication [main] Starting EmployeeManagementSystemApplication using Java 16.0.1 on DESKTOP-GC4GHMK with PID 12872 (C:\Users\User\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\target\classes started by User in C:\Users\User\Desktop\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem)
+2021-07-25 04:23:56,663 INFO c.E.E.EmployeeManagementSystemApplication [main] No active profile set, falling back to default profiles: default
+2021-07-25 04:23:58,411 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-07-25 04:23:58,565 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 136 ms. Found 2 JPA repository interfaces.
+2021-07-25 04:24:00,374 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 9090 (http)
+2021-07-25 04:24:00,406 INFO o.a.c.h.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-9090"]
+2021-07-25 04:24:00,407 INFO o.a.c.c.StandardService [main] Starting service [Tomcat]
+2021-07-25 04:24:00,408 INFO o.a.c.c.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-25 04:24:00,749 INFO o.a.c.c.C.[.[.[/] [main] Initializing Spring embedded WebApplicationContext
+2021-07-25 04:24:00,750 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 3935 ms
+2021-07-25 04:24:01,201 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-07-25 04:24:01,427 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-07-25 04:24:01,786 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-07-25 04:24:02,087 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2021-07-25 04:24:02,538 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-07-25 04:24:02,584 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL93Dialect
+2021-07-25 04:24:05,658 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-07-25 04:24:05,679 INFO o.s.o.j.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-07-25 04:24:06,629 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-07-25 04:24:07,124 INFO o.s.b.a.w.s.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2021-07-25 04:24:08,148 INFO o.a.c.h.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-9090"]
+2021-07-25 04:24:08,201 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 9090 (http) with context path ''
+2021-07-25 04:24:08,238 INFO c.E.E.EmployeeManagementSystemApplication [main] Started EmployeeManagementSystemApplication in 12.629 seconds (JVM running for 14.472)
